@@ -1,16 +1,46 @@
-## Hi there 👋
+Hi, I'm Imasha Tathsarani 
 
-<!--
-**tathsarani2002/tathsarani2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓BSc (Hons) in Computer Science and Technology Undergraduate
 
-Here are some ideas to get you started:
+💻 Interested in Software Development, Artificial Intelligence & Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Skills
+
+Languages: C#, Java, Python
+* Database: SQL
+* Web: HTML, CSS
+* Tools: Git, GitHub, Visual Studio
+
+🚀 Projects
+
+📚 Library Management System
+C# Windows Forms application with database integration.
+
+🛒 POS System
+C# Windows Forms application for product, customer and sales management.
+
+📚 Currently Learning
+
+* Python
+* Artificial Intelligence
+* Project Management
+  
+🎯 Areas of Interest
+
+* Artificial Intelligence
+* Data Science
+* Software Development
+* Problem Solving
+
+📜 Certifications
+
+Computer Literacy – Open University of Sri Lanka
+
+🔗 Connect With Me
+LinkedIn:[My LinkedIn Profile](https://www.linkedin.com/in/lmasha-thathsarani-596a053b9)
+
+
+
+
+
+
