@@ -9,11 +9,11 @@ Hi, I'm Imasha Tathsarani
 Languages: C#, Java, Python
 * Database: SQL
 * Web: HTML, CSS
-* Tools: Git, GitHub, Visual Studio
+* Tools: GitHub, Visual Studio
 
 🚀 Projects
 
-📚 Library Management System
+📚 [Library Management System](https://github.com/tathsarani2002/Library-Management-System)
 C# Windows Forms application with database integration.
 
 🛒 POS System
