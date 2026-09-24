@@ -16,7 +16,7 @@ Languages: C#, Java, Python
 📚 [Library Management System](https://github.com/tathsarani2002/Library-Management-System)
 C# Windows Forms application with database integration.
 
-🛒 POS System
+🛒 [POS System](https://github.com/tathsarani2002/POS-System)
 C# Windows Forms application for product, customer and sales management.
 
 📚 Currently Learning
