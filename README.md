@@ -6,7 +6,7 @@ Hi, I'm Imasha Tathsarani
 
 🛠️ Technical Skills
 
-Languages: C#, Java, Python
+Languages: C#, Java, Python, C
 * Database: SQL
 * Web: HTML, CSS
 * Tools: GitHub, Visual Studio
@@ -18,6 +18,9 @@ C# Windows Forms application with database integration.
 
 🛒 [POS System](https://github.com/tathsarani2002/POS-System)
 C# Windows Forms application for product, customer and sales management.
+
+👟 [CUSTODIAN Shoe Shop](https://github.com/tathsarani2002/CUSTODIAN-Shoe-Shop)
+C-based Customer Management System using a Singly Linked List for customer record management.
 
 📚 Currently Learning
 
